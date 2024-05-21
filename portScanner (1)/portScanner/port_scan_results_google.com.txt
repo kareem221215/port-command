@@ -1,0 +1,15 @@
+Port Scanner Results on google.com
+Protocol: tcp
+Port Range: 10-1000
+Timeout: 1
+Start Time: 1709640527.417282
+End Time: 1709640627.087142
+
+Port 21 is open
+Port 80 is open
+Port 443 is open
+Port 554 is open
+
+Scan completed in 99.66985988616943 seconds.
+========================================
+
